@@ -1,5 +1,4 @@
-//DONE
-// Smolianova Varvara 115284311
+
 import java.util.Scanner;
 public class Complex {  //First
     public static void main(String []args){
