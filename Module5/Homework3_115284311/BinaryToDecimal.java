@@ -1,4 +1,4 @@
-// Smolianova Varvara 115284311
+
 import java.util.Scanner;
 public class BinaryToDecimal {
     public static void main(String[] args) {
