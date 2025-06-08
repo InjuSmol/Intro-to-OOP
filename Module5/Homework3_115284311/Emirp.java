@@ -1,4 +1,4 @@
-// Smolianova Varvara 115284311
+
 public class Emirp {
     public static void main(String [] args){
         int i=13,countLine = 0, count = 0;
