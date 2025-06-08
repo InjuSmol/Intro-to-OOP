@@ -1,5 +1,4 @@
-//Done
-// Smolianova Varvara 115284311
+
 import java.util.Scanner;
 public class Lab23_2 {
     public static void main(String[] args) {
