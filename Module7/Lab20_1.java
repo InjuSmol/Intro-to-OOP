@@ -1,4 +1,4 @@
-// Smolianova Varvara 115284311
+
 import java.util.ArrayList;
 import java.util.Arrays;
 public class Lab20_1 {
