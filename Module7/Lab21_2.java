@@ -1,4 +1,4 @@
-// Smolianova Varvara 115284311
+
 public class Lab21_2 {
     public static void main(String[] args) {
         java.util.Scanner input = new java.util.Scanner(System.in);
