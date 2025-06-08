@@ -1,4 +1,4 @@
-// Varvara Smolianova 115284311
+
 public class Lab15_1 {
     public static void main (String [] args){
         RegularPolygon P1 = new RegularPolygon();
