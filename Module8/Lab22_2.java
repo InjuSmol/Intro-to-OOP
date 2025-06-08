@@ -1,4 +1,4 @@
-// Smolianova Varvara 115284311
+
 public class Lab22_2 {
     public static void main (String []args){
         ComparableCircle c3 = new ComparableCircle(6.8);
