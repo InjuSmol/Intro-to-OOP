@@ -1,4 +1,4 @@
-// Varvara Smolianova 115284311
+
 public class Lab14_1 {
     public static void main (String [] args){
         Rectangle R1 = new Rectangle(4,40);
