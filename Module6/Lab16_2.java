@@ -1,4 +1,4 @@
-//Varvara Smolianova 115284311
+
 public class Lab16_2 {
     public static void main(String[]args){
        MyInteger test1 = new MyInteger(14); //even
