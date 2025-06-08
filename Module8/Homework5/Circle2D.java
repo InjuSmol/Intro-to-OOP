@@ -1,6 +1,4 @@
-//DONE
-//Third assignment
-// Smolianova Varvara 115284311
+
 public class Circle2D {
 
     private final double PI = 3.14159;
