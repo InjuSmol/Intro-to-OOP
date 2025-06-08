@@ -1,4 +1,4 @@
-//Varvara Smolianova 115284311
+
 import java.util.Scanner;
 public class Lab18_1 {
     public static void main(String[]args){
