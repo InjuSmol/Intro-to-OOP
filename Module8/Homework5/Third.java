@@ -1,5 +1,4 @@
-//DONE
-// Smolianova Varvara 115284311
+
 public class Third {
     public static void main (String [] args){
         Circle2D c1 = new Circle2D(2,2,5.5);
