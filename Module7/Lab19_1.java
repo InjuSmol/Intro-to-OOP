@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-// Smolianova Varvara 115284311
+
 public class Lab19_1 {
     public static void main(String [] args){
         Scanner input = new Scanner(System.in);
