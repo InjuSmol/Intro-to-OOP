@@ -1,4 +1,4 @@
-// Smolianova Varvara 115284311
+
 import java.io.PrintWriter;
 import java.io.FileWriter;
 import java.io.File;
